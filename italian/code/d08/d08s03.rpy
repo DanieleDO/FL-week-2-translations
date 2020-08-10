@@ -4,67 +4,67 @@
 translate italian d08s03_4ee8cc8f:
 
     # "9:00 AM"
-    "9:00 AM"
+    "9:00"
 
 # game/code/d08/d08s03.rpy:24
 translate italian d08s03_23c37cdf:
 
     # "Ok, AmRose is already here."
-    "Ok, AmRose is already here."
+    "Ok, AmRose è gia qui."
 
 # game/code/d08/d08s03.rpy:32
 translate italian d08s03_014606bc:
 
     # mc "Hey Min, Antony, are you hosting another... ?"
-    mc "Hey Min, Antony, are you hosting another... ?"
+    mc "Ehi Min, Antony, avete pianificato un altro... ?"
 
 # game/code/d08/d08s03.rpy:34
 translate italian d08s03_7c8ad1b9:
 
     # mes "Hey [mcname]!"
-    mes "Hey [mcname]!"
+    mes "Ehi [mcname]!"
 
 # game/code/d08/d08s03.rpy:36
 translate italian d08s03_476d3299:
 
     # mes "Yes. We're going to have another little get together this Wednesday night."
-    mes "Yes. We're going to have another little get together this Wednesday night."
+    mes "Si. Faremo un'altra festicciola questo mercoledì sera."
 
 # game/code/d08/d08s03.rpy:39
 translate italian d08s03_ffd853cf:
 
     # am "Yes, of course! This Wednesday night we'll host another little soiree!"
-    am "Yes, of course! This Wednesday night we'll host another little soiree!"
+    am "Certamente! Questo mercoledì faremo un altro po' di festa!"
 
 # game/code/d08/d08s03.rpy:41
 translate italian d08s03_2bd3a841:
 
     # mes "Shhhhh. {w}You don't have to yell it out to everybody."
-    mes "Shhhhh. {w}You don't have to yell it out to everybody."
+    mes "Shhhhh. {w}Non devi urlarlo a tutti."
 
 # game/code/d08/d08s03.rpy:42
 translate italian d08s03_23d05496:
 
     # am "Sorry, lady love."
-    am "Sorry, lady love."
+    am "Scusami, Amore."
 
 # game/code/d08/d08s03.rpy:43
 translate italian d08s03_38fc3e2b:
 
     # mc "Oh good, good. I wasn't sure how to ask."
-    mc "Oh good, good. I wasn't sure how to ask."
+    mc "Oh benissimo. Non sapevo come chiedervelo."
 
 # game/code/d08/d08s03.rpy:45
 translate italian d08s03_f61da1d5:
 
     # mes "I hope you'll be there."
-    mes "I hope you'll be there."
+    mes "Spero di vederti alla festa."
 
 # game/code/d08/d08s03.rpy:46
 translate italian d08s03_0b4516c9:
 
     # mc "Is that an invitation?"
-    mc "Is that an invitation?"
+    mc "È un invito?"
 
 # game/code/d08/d08s03.rpy:47
 translate italian d08s03_e8924c39:
@@ -76,67 +76,67 @@ translate italian d08s03_e8924c39:
 translate italian d08s03_2a513d79:
 
     # am "As much as we'd love to invite you and a few others, we're trying to..."
-    am "As much as we'd love to invite you and a few others, we're trying to..."
+    am "Ci piacerebbe invitare te e qualcun altro, ma stiamo provando a..."
 
 # game/code/d08/d08s03.rpy:50
 translate italian d08s03_9875b977:
 
     # mes "We don't want to give away invites, especially to people who can earn their own way."
-    mes "We don't want to give away invites, especially to people who can earn their own way."
+    mes "Non vogliamo regalare nessun invito, specialmente alle persone che non hanno problemi a farsi punti da soli."
 
 # game/code/d08/d08s03.rpy:51
 translate italian d08s03_f17ef2a2:
 
     # mc "But if you already believe that I can get to the Party using points, why not just invite me?"
-    mc "But if you already believe that I can get to the Party using points, why not just invite me?"
+    mc "Ma se sapete già che avrò i punti per parteciapre, perchè non mi invitate direttamente?"
 
 # game/code/d08/d08s03.rpy:54
 translate italian d08s03_7dfaf170:
 
     # mes "Where's the fun in that?"
-    mes "Where's the fun in that?"
+    mes "Dove sarebbe il divertimento?"
 
 # game/code/d08/d08s03.rpy:56
 translate italian d08s03_87b23c5f:
 
     # am "Go out there and score points the old fashioned way."
-    am "Go out there and score points the old fashioned way."
+    am "Vai e cerca di fare più punti che puoi."
 
 # game/code/d08/d08s03.rpy:59
 translate italian d08s03_c85aafcd:
 
     # am "Where's the fun in that?"
-    am "Where's the fun in that?"
+    am "Dove sarebbe il divertimento?"
 
 # game/code/d08/d08s03.rpy:60
 translate italian d08s03_1acabea5:
 
     # mes "Go out there and earn points just like we do."
-    mes "Go out there and earn points just like we do."
+    mes "Vai e cerca di fare punti come noi."
 
 # game/code/d08/d08s03.rpy:62
 translate italian d08s03_9fa7debd:
 
     # mes "Besides, the more people that pay with points, the more money we get from the app, the better the next Party will be."
-    mes "Besides, the more people that pay with points, the more money we get from the app, the better the next Party will be."
+    mes "A parte il divertimento, se più persone pagano con i punti l'app ci dà più soldi, in modo che il prossimo Party sarà ancora più entusiasmante."
 
 # game/code/d08/d08s03.rpy:64
 translate italian d08s03_8e4d8272:
 
     # am "Shhhh. {w}Don't tell anyone, but this week is going to be EPIC."
-    am "Shhhh. {w}Don't tell anyone, but this week is going to be EPIC."
+    am "Shhhh. {w}Non dirlo a nessuno, ma questa settimana sarà EPICO."
 
 # game/code/d08/d08s03.rpy:65
 translate italian d08s03_15570c18:
 
     # mc "Cool, cool. Looking forward to it."
-    mc "Cool, cool. Looking forward to it."
+    mc "Figo. Non vedo l'ora."
 
 # game/code/d08/d08s03.rpy:68
 translate italian d08s03_e3da725d:
 
     # mes "See ya after class."
-    mes "See ya after class."
+    mes "Ci vediamo dopo lezione."
 
 # game/code/d08/d08s03.rpy:69
 translate italian d08s03_05500ff6:
@@ -148,277 +148,277 @@ translate italian d08s03_05500ff6:
 translate italian d08s03_b19c39f0:
 
     # am "We've got some planning to do here. See ya later, okay?"
-    am "We've got some planning to do here. See ya later, okay?"
+    am "Dobbiamo pianificare alcune cose. Ci vediamo dopo, ok?"
 
 # game/code/d08/d08s03.rpy:71
 translate italian d08s03_1126c76e:
 
     # mc "Sure, yeah. See ya."
-    mc "Sure, yeah. See ya."
+    mc "Certo. Ci vediamo."
 
 # game/code/d08/d08s03.rpy:77
 translate italian d08s03_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Ehi!"
 
 # game/code/d08/d08s03.rpy:78
 translate italian d08s03_c25c2fcc:
 
     # arj "Are you joining?"
-    arj "Are you joining?"
+    arj "Ti unisci a me?"
 
 # game/code/d08/d08s03.rpy:80
 translate italian d08s03_b01dd5cf:
 
     # mc "The Party will be Wednesday night."
-    mc "The Party will be Wednesday night."
+    mc "Il Party è mercoledì sera."
 
 # game/code/d08/d08s03.rpy:81
 translate italian d08s03_ef789455:
 
     # mc "Not sure about the details yet, but there should be something on the app soon."
-    mc "Not sure about the details yet, but there should be something on the app soon."
+    mc "Non conosco ancora tutti i dettagli, ma l'app dovrebbe informarci fra poco."
 
 # game/code/d08/d08s03.rpy:82
 translate italian d08s03_62169626:
 
     # arj "Cool, thanks."
-    arj "Cool, thanks."
+    arj "Fantastico, grazie."
 
 # game/code/d08/d08s03.rpy:83
 translate italian d08s03_aa721223:
 
     # mc "Are you doing okay? I got a message last night..."
-    mc "Are you doing okay? I got a message last night..."
+    mc "Va tutto bene? La scorsa notte ho ricevuto un messaggio..."
 
 # game/code/d08/d08s03.rpy:85
 translate italian d08s03_ccf766c6:
 
     # arj "What kind of message?"
-    arj "What kind of message?"
+    arj "Che tipo di messaggio?"
 
 # game/code/d08/d08s03.rpy:86
 translate italian d08s03_43410c56:
 
     # mc "From that thing we can't talk about."
-    mc "From that thing we can't talk about."
+    mc "Da quella cosa di cui non possiamo parlare."
 
 # game/code/d08/d08s03.rpy:88
 translate italian d08s03_68dabad6:
 
     # arj "Oh. He-who-shall-not-be-named."
-    arj "Oh. He-who-shall-not-be-named."
+    arj "Oh. Colui che non deve essere nominato."
 
 # game/code/d08/d08s03.rpy:89
 translate italian d08s03_b6668550:
 
     # mc "Heh, yeah. I guess we could call it Tom Riddle."
-    mc "Heh, yeah. I guess we could call it Tom Riddle."
+    mc "Heh, si. Potremmo chiamarlo Tom Riddle."
 
 # game/code/d08/d08s03.rpy:91
 translate italian d08s03_3175ad62:
 
     # arj "What did he say?"
-    arj "What did he say?"
+    arj "Cosa diceva?"
 
 # game/code/d08/d08s03.rpy:92
 translate italian d08s03_315dea22:
 
     # mc "Just that you didn't have enough points and were going to fail."
-    mc "Just that you didn't have enough points and were going to fail."
+    mc "Soltanto che non avevi abbastanza punti e che avresti fallito l'obiettivo."
 
 # game/code/d08/d08s03.rpy:95
 translate italian d08s03_d3fceaab:
 
     # arj "Is that why you sent me a ton of points this morning?"
-    arj "Is that why you sent me a ton of points this morning?"
+    arj "È per questo motivo che mi hai mandato tantissimi punti stamattina?"
 
 # game/code/d08/d08s03.rpy:96
 translate italian d08s03_fceb4365:
 
     # mc "Yeah, it wouldn't tell me how short you were, so I just tried to guess."
-    mc "Yeah, it wouldn't tell me how short you were, so I just tried to guess."
+    mc "Si, non mi ha detto quanti te ne mancavano, così ho tirato ad indovinare."
 
 # game/code/d08/d08s03.rpy:98
 translate italian d08s03_01a3e0cd:
 
     # arj "That's really sweet. Remind me to thank you later."
-    arj "That's really sweet. Remind me to thank you later."
+    arj "È molto dolce. Ti devo un favore."
 
 # game/code/d08/d08s03.rpy:100
 translate italian d08s03_0c2e0e96:
 
     # arj "Is that why you sent me some points this morning?"
-    arj "Is that why you sent me some points this morning?"
+    arj "È per questo motivo che stamattina mi hai inviato dei punti?"
 
 # game/code/d08/d08s03.rpy:101
 translate italian d08s03_fceb4365_1:
 
     # mc "Yeah, it wouldn't tell me how short you were, so I just tried to guess."
-    mc "Yeah, it wouldn't tell me how short you were, so I just tried to guess."
+    mc "Si, non mi ha detto quanti te ne mancavano, così ho tirato ad idovinare."
 
 # game/code/d08/d08s03.rpy:103
 translate italian d08s03_18466d64:
 
     # arj "That's kinda sweet."
-    arj "That's kinda sweet."
+    arj "Che carino."
 
 # game/code/d08/d08s03.rpy:104
 translate italian d08s03_98fef643:
 
     # mc "So, are you in danger?"
-    mc "So, are you in danger?"
+    mc "Quindi, sei in pericolo?"
 
 # game/code/d08/d08s03.rpy:106
 translate italian d08s03_c9bb4b8c:
 
     # arj "Oh, no. I was never in any danger."
-    arj "Oh, no. I was never in any danger."
+    arj "Oh, no. Non sono ma stata in pericolo."
 
 # game/code/d08/d08s03.rpy:108
 translate italian d08s03_3d84fa54:
 
     # arj "I was going to use my Gold Star, but you sent me so many points that I didn't have to do that."
-    arj "I was going to use my Gold Star, but you sent me so many points that I didn't have to do that."
+    arj "Avrei usato la mia Stella d'oro, ma mi hai mandato così tanti punti che non ne ho avuto il bisogno."
 
 # game/code/d08/d08s03.rpy:110
 translate italian d08s03_e06398e6:
 
     # arj "I just used my Gold Star."
-    arj "I just used my Gold Star."
+    arj "Ho usato la mia Stella d'oro."
 
 # game/code/d08/d08s03.rpy:112
 translate italian d08s03_8d0e4425:
 
     # mc "What's a Gold Star?"
-    mc "What's a Gold Star?"
+    mc "Cos'è una Stella d'oro?"
 
 # game/code/d08/d08s03.rpy:114
 translate italian d08s03_b29d08e1:
 
     # arj "If you win a daily challenge and you're in \"the program\", you get a Gold Star. {w}I won that daily challenge last Thursday, so..."
-    arj "If you win a daily challenge and you're in \"the program\", you get a Gold Star. {w}I won that daily challenge last Thursday, so..."
+    arj "se vinci una challenge giornaliera e sei \"nel programma\", ricevi una Stella d'oro. {w}Ho vinto la challenge giornaliera giovedì scorso, quindi..."
 
 # game/code/d08/d08s03.rpy:115
 translate italian d08s03_d661624e:
 
     # mc "Okay, but what's a Gold Star?"
-    mc "Okay, but what's a Gold Star?"
+    mc "Ok, ma cos'è questa Stella d'oro?"
 
 # game/code/d08/d08s03.rpy:117
 translate italian d08s03_c18f900e:
 
     # arj "Oh! You can use it like a \"Get out of jail free\" to pass on a goal that you otherwise would have failed."
-    arj "Oh! You can use it like a \"Get out of jail free\" to pass on a goal that you otherwise would have failed."
+    arj "Oh! La puoi usare come un \"Esci gratis di galera\" per passare un obiettivo che altrimenti avresti perso."
 
 # game/code/d08/d08s03.rpy:118
 translate italian d08s03_876c474c:
 
     # mc "Oh, so if I win a Gold Star, then I can stop playing for a few days?"
-    mc "Oh, so if I win a Gold Star, then I can stop playing for a few days?"
+    mc "Oh, quindi se vinco una Stella d'oro, posso non giocar più per alcuni giorni?"
 
 # game/code/d08/d08s03.rpy:120
 translate italian d08s03_120b18d2:
 
     # arj "Exactly. That's why I wasn't worrying about doing anything over the weekend."
-    arj "Exactly. That's why I wasn't worrying about doing anything over the weekend."
+    arj "Esattamente. Questo è perchè non mi sono preoccupata la scorsa settimana."
 
 # game/code/d08/d08s03.rpy:121
 translate italian d08s03_58aba63d:
 
     # mc "Good to know. Thanks."
-    mc "Good to know. Thanks."
+    mc "Buono a sapersi. Grazie."
 
 # game/code/d08/d08s03.rpy:123
 translate italian d08s03_72b9536c:
 
     # mc "Oh, right. I totally forgot you won that challenge last week."
-    mc "Oh, right. I totally forgot you won that challenge last week."
+    mc "Oh, è vero. Mi ero dimenticato che tu avessi vinto la challenge la scorsa settimana."
 
 # game/code/d08/d08s03.rpy:125
 translate italian d08s03_68799ee0:
 
     # arj "Boof!"
-    arj "Boof!"
+    arj "Poof!"
 
 # game/code/d08/d08s03.rpy:126
 translate italian d08s03_f36e5aec:
 
     # mc "Exactly."
-    mc "Exactly."
+    mc "Esattamente."
 
 # game/code/d08/d08s03.rpy:138
 translate italian d08s03_9e4cf501:
 
     # arj "Anyway, class is going to start soon."
-    arj "Anyway, class is going to start soon."
+    arj "Comunque, la lezione comincia fra pochi minuti."
 
 # game/code/d08/d08s03.rpy:139
 translate italian d08s03_415e490a:
 
     # mc "Alright, I'm gonna go chat with Kevin."
-    mc "Alright, I'm gonna go chat with Kevin."
+    mc "D'accordo, andrò a parlare con Kevin."
 
 # game/code/d08/d08s03.rpy:143
 translate italian d08s03_0c48932e:
 
     # mct "Weird. Maria is staring at me with those crazy stalker eyes."
-    mct "Weird. Maria is staring at me with those crazy stalker eyes."
+    mct "Che strano. Maria mi sta fissando con uno sguardo da stalker."
 
 # game/code/d08/d08s03.rpy:147
 translate italian d08s03_ea9b9792:
 
     # arj "Don't be a stranger."
-    arj "Don't be a stranger."
+    arj "Ci sentiamo dopo."
 
 # game/code/d08/d08s03.rpy:152
 translate italian d08s03_87200cb2:
 
     # mc "Hey Kev, how was your weekend?"
-    mc "Hey Kev, how was your weekend?"
+    mc "Ehi Kev, come è andato il fine settimana?"
 
 # game/code/d08/d08s03.rpy:153
 translate italian d08s03_2d975032:
 
     # kb "A-maz-ing. You wouldn't even believe what I got up to yesterday if I told you."
-    kb "A-maz-ing. You wouldn't even believe what I got up to yesterday if I told you."
+    kb "Stu-pen-do. Non mi crederesti se ti dicessi cosa ho fatto ieri."
 
 # game/code/d08/d08s03.rpy:154
 translate italian d08s03_9a1c051d:
 
     # mct "Considering what I learned about him last week... {w}Yeah, he's probably right."
-    mct "Considering what I learned about him last week... {w}Yeah, he's probably right."
+    mct "Considerando cosa ho scoperto su di lui la scorsa settimana... {w}Probabilmente ha ragione."
 
 # game/code/d08/d08s03.rpy:156
 translate italian d08s03_12d3c264:
 
     # kb "What about you, [mcname]? Good weekend?"
-    kb "What about you, [mcname]? Good weekend?"
+    kb "E tu invece, [mcname]? Come è andato il tuo weekend?"
 
 # game/code/d08/d08s03.rpy:157
 translate italian d08s03_d5222758:
 
     # mc "Great weekend. You might not believe it."
-    mc "Great weekend. You might not believe it."
+    mc "Weekend fantastico. Potresti non credere a cosa ho fatto."
 
 # game/code/d08/d08s03.rpy:158
 translate italian d08s03_573312da:
 
     # kb "Try me."
-    kb "Try me."
+    kb "Racconta."
 
 # game/code/d08/d08s03.rpy:160
 translate italian d08s03_b7f9c574:
 
     # mc "Lydia and I had our first date on Saturday."
-    mc "Lydia and I had our first date on Saturday."
+    mc "Lydia e io abbiamo avuto il nostro prima appuntamento sabato."
 
 # game/code/d08/d08s03.rpy:161
 translate italian d08s03_92e7f101:
 
     # kb "You mean her concert at the coffee shop, where she jumped off the stage and kissed you in front of everyone?"
-    kb "You mean her concert at the coffee shop, where she jumped off the stage and kissed you in front of everyone?"
+    kb "Intendi il concerto al bar, dove è scesa dal palco e ti ha baciato davanti a tutti?"
 
 # game/code/d08/d08s03.rpy:162
 translate italian d08s03_5c829999:
